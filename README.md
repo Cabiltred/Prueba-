@@ -1,3 +1,4 @@
 # Prueba-
-voy a aprender  github
-voy a realizar algunos arreglos
+* voy a aprender 
+* voy a realizar  mi primer  trabajo
+* hare algunas listas
